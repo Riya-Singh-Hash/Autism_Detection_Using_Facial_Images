@@ -7,7 +7,7 @@ This project presents a **deep learning–based system for Autism Spectrum Disor
 
 The project also includes a **Flask-based web application** that allows users to upload an image and receive a prediction in real time.
 
----
+
 
 ## ✨ Key Features
 
@@ -18,7 +18,7 @@ The project also includes a **Flask-based web application** that allows users to
 * **Flask web interface** for real-time predictions
 * Modular, scalable, and well-structured codebase
 
----
+
 
 ## 📂 Dataset 
 The project uses the Autism Image Dataset available on Kaggle:
@@ -37,9 +37,10 @@ The dataset is organized into **training, validation, and test splits** with bal
 | **Overall**    | **1470** | **1470**     | **2940** |
 
 ✔ Dataset is **perfectly balanced**, reducing class bias
+
 ✔ Images are organized using directory-based class labels
 
----
+
 
 ## 🧪 Model Architecture
 
@@ -55,7 +56,7 @@ The model follows a **Sequential CNN architecture**:
 **Total Parameters**: **3,697,905**
 **Trainable Parameters**: **3,697,265**
 
----
+
 
 ## 🏋️ Training Configuration
 
@@ -67,7 +68,7 @@ The model follows a **Sequential CNN architecture**:
 
 Training automatically stops when validation performance stops improving.
 
----
+
 
 ## 📊 Model Performance (Test Set)
 
@@ -79,7 +80,7 @@ Training automatically stops when validation performance stops improving.
 
 These results demonstrate **good generalization** and balanced performance across both classes.
 
----
+
 
 ## 🌐 Web Application
 
@@ -92,7 +93,7 @@ The Flask web app allows users to:
 
 The UI also includes an **autism awareness questionnaire** and a **basic chatbot** for user interaction.
 
----
+
 
 ## 📁 Project Structure
 
@@ -121,7 +122,7 @@ Autism-Detection/
 └── README.md
 ```
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -177,18 +178,18 @@ Open browser:
 http://localhost:5000
 ```
 
----
+
 
 ## ⚠️ Disclaimer
 
 This project is intended **for educational and research purposes only**.
 It is **not a medical diagnostic tool** and should not replace professional clinical evaluation.
 
----
+
 
 
 ## ⭐ Acknowledgment
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
 
----
+
