@@ -20,8 +20,10 @@ The project also includes a **Flask-based web application** that allows users to
 
 ---
 
-## 📂 Dataset Details (Verified)
+## 📂 Dataset 
+The project uses the Autism Image Dataset available on Kaggle:
 
+Dataset Source: Autism Image Data on Kaggle(https://www.kaggle.com/datasets/cihan063/autism-image-data)
 The dataset is organized into **training, validation, and test splits** with balanced classes.
 
 ### 📊 Dataset Distribution
