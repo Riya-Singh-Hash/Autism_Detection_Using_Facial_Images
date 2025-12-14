@@ -129,7 +129,7 @@ Autism-Detection/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/ShalabhRanjan19/Autism-Detection-using-Image.git
+git clone https://github.com/Riya-Singh-Hash/Autism_Detection_Using_Facial_Images.git
 cd Autism-Detection
 ```
 
